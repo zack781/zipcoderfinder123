@@ -1,0 +1,12 @@
+{
+	"name": "SQLLab",
+	"description": "SQL Lab",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "*",
+		"any-db": "*",
+		"sqlite3": "*",
+		"csv": "*",
+		"any-db-sqlite3": "*"
+	}
+}
